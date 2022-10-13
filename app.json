@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Educate",
+    "slug": "Educate",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/D.png",
+    "splash": {
+      "image": "./assets/D.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/D.png",
+        "backgroundColor": "#FFFFFF"
+      },
+      "package": "com.zanish.Educate"
+    },
+    "web": {
+      "favicon": "./assets/D.png"
+    }
+  }
+}
